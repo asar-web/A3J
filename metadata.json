@@ -1,0 +1,6 @@
+{
+  "name": "Aura Retail POS - 80mm Thermal Receipt & Inventory",
+  "description": "Retail POS system featuring realistic 80mm thermal roll receipt preview, dynamic items, LKR currency, live barcode scanning, and multi-branch inventory sync.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
